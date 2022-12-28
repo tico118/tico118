@@ -1,4 +1,8 @@
-Hello World :thumbsup:
+**Hello World!**
+
+My name is Ernesto Ruiz. You can call me **Tico** 
+I am a former :us: United States Marine 
+turned Full Stack Software Engineer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
