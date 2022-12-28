@@ -8,3 +8,6 @@ turned Full Stack Software Engineer.
 📫 Reach Me At: 
    1. [LinkedIn](https://www.linkedin.com/in/ernesto-javier-ruiz/)
    2. [Email](mailto:ernesto.j.ruiz22@gmail.com)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
