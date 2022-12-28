@@ -11,4 +11,7 @@ turned Full Stack Software Engineer.
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tico118)]
+<img
+  src="https://github.com/tico118/tico118/blob/main/images/stat.svg"
+  alt="Tico118 WakaTime Stats"
+/>
