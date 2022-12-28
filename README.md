@@ -12,6 +12,6 @@ turned Full Stack Software Engineer
 
 
 <img
-  src="https://github.com/tico118/tico118/blob/main/images/stat.svg"
+  src="https://wakatime.com/share/@tico118/688b3cd3-95d7-433a-a45d-b50bb0f6b6fc.svg"
   alt="Tico118 WakaTime Stats"
 />
