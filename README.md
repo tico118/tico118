@@ -18,8 +18,8 @@ turned Full Stack Software Engineer
   <img
   src="https://wakatime.com/share/@tico118/688b3cd3-95d7-433a-a45d-b50bb0f6b6fc.svg"
   alt="Tico118 WakaTime Stats"
-  height="300"
-  width="400"
+  height="400"
+  width="500"
 />
   </p>
 </details>
