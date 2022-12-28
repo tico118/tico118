@@ -8,7 +8,7 @@ turned Full Stack Software Engineer.
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 + 📫 How to reach me: 
-1. [LinkedIn](https://www.linkedin.com/in/ernesto-javier-ruiz/)
-2. [Email](mailto:ernesto.j.ruiz22@gmail.com)
+  1. [LinkedIn](https://www.linkedin.com/in/ernesto-javier-ruiz/)
+  2. [Email](mailto:ernesto.j.ruiz22@gmail.com)
 
 - ⚡ Fun fact: ...
