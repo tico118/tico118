@@ -16,7 +16,7 @@ turned Full Stack Software Engineer
   <summary>Language Statistics...</summary><br/>
   <p align="center">
   <img
-  src="https://wakatime.com/share/@tico118/688b3cd3-95d7-433a-a45d-b50bb0f6b6fc.svg"
+  src="https://wakatime.com/share/@tico118/db9adaf5-eb47-4999-8b04-1dab4cb6f043.svg"
   alt="Tico118 WakaTime Stats"
   height="400"
   width="500"
