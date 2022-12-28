@@ -2,7 +2,7 @@
 
 My name is Ernesto Ruiz. You can call me **Tico** \
 I am a former United States Marine \
-turned Full Stack Software Engineer
+turned Full Stack Software Engineer.
 
 
 📫 Reach Me At: 
