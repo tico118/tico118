@@ -19,7 +19,7 @@ I strive to always be a great learner.
 
 
 📫 Reach Me At: 
-   1. [Email](mailto:ernesto.j.ruiz22@gmail.com)
+   1. [ernesto.j.ruiz22@gmail.com](mailto:ernesto.j.ruiz22@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
