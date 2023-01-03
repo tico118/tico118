@@ -35,6 +35,7 @@ I strive to always be a great learner.
 
 📫 Reach Me At: 
    1. [ernesto.j.ruiz22@gmail.com](mailto:ernesto.j.ruiz22@gmail.com)
+   2. [My Website](https://www.ernestojavierruiz.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
